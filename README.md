@@ -1,2 +1,3 @@
-# coursera-jhudatascience-statinference
-Coursera - Specialization Data Science - Statistical Inference
+# Statistical Inference
+## Content
+* README.md
